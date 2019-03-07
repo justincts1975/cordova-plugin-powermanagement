@@ -16,11 +16,11 @@ Installation
 ---------
 Install using npm:
 
-`$ npm i cordova-plugin-powermanagement-orig`
+`$ npm i git+https://github.com/justincts1975/cordova-plugin-powermanagement.git`
 
 Install the plugin using the cordova command line utility:
 
-`$ cordova plugin add https://github.com/Viras-/cordova-plugin-powermanagement.git`
+`$ cordova plugin add https://github.com/justincts1975/cordova-plugin-powermanagement.git`
 
 Usage
 -----
